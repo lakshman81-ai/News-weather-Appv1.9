@@ -1,0 +1,167 @@
+{
+  "lastUpdated": "2023-01-01T00:00:00.000Z",
+  "timeline": [
+    {
+      "date": "2023-10-10",
+      "dayLabel": "Today (Tue)",
+      "items": [
+        {
+          "id": "e1",
+          "type": "alert",
+          "title": "Heavy Rain Alert",
+          "subtitle": "Chennai & Coastal TN",
+          "description": "IMD predicts heavy rainfall this evening. Avoid travel if possible.",
+          "tags": [
+            "Weather",
+            "Alert"
+          ],
+          "severity": "high"
+        },
+        {
+          "id": "m1",
+          "type": "movie",
+          "title": "Leo Trailer Release",
+          "subtitle": "YouTube - 6 PM",
+          "description": "The highly anticipated trailer for Thalapathy Vijay's Leo drops today.",
+          "tags": [
+            "Cinema",
+            "Viral"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-10-11",
+      "dayLabel": "Tomorrow (Wed)",
+      "items": [
+        {
+          "id": "s1",
+          "type": "sport",
+          "title": "India vs Afghanistan",
+          "subtitle": "ICC World Cup - 2:00 PM",
+          "description": "India takes on Afghanistan in Delhi. Gill likely to miss out.",
+          "tags": [
+            "Cricket",
+            "World Cup"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-10-12",
+      "dayLabel": "Thursday",
+      "items": [
+        {
+          "id": "f1",
+          "type": "festival",
+          "title": "Pradosham",
+          "subtitle": "Religious",
+          "description": "Auspicious day for Lord Shiva worship.",
+          "tags": [
+            "Devotional"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-10-13",
+      "dayLabel": "Friday",
+      "items": [
+        {
+          "id": "m2",
+          "type": "movie",
+          "title": "Mission Impossible: DR Part 1",
+          "subtitle": "OTT Release (Prime)",
+          "description": "Tom Cruise's latest action blockbuster hits streaming.",
+          "tags": [
+            "OTT",
+            "Hollywood"
+          ]
+        },
+        {
+          "id": "m3",
+          "type": "movie",
+          "title": "Kill",
+          "subtitle": "Theaters",
+          "description": "Action thriller releasing in theaters nationwide.",
+          "tags": [
+            "Bollywood",
+            "New Release"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-10-14",
+      "dayLabel": "Saturday",
+      "items": [
+        {
+          "id": "e2",
+          "type": "event",
+          "title": "AR Rahman Concert",
+          "subtitle": "Chennai - Nehru Stadium",
+          "description": "Marakkuma Nenjam encore concert.",
+          "tags": [
+            "Music",
+            "Live"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-10-15",
+      "dayLabel": "Sunday",
+      "items": [
+        {
+          "id": "e3",
+          "type": "event",
+          "title": "Sunday Market",
+          "subtitle": "Besant Nagar",
+          "description": "Weekly organic farmers market open from 6 AM to 11 AM.",
+          "tags": [
+            "Lifestyle"
+          ]
+        }
+      ]
+    }
+  ],
+  "sections": {
+    "movies": [
+      {
+        "title": "Leo",
+        "releaseDate": "Oct 19",
+        "language": "Tamil"
+      },
+      {
+        "title": "Tiger 3",
+        "releaseDate": "Nov 12",
+        "language": "Hindi"
+      }
+    ],
+    "festivals": [
+      {
+        "title": "Navaratri Starts",
+        "date": "Oct 15"
+      },
+      {
+        "title": "Saraswathi Puja",
+        "date": "Oct 23"
+      }
+    ],
+    "alerts": [
+      {
+        "text": "Metro Rail disruption on Green Line (Oct 14)",
+        "severity": "medium"
+      }
+    ]
+  },
+  "weekly_plan": {
+    "monday": "Start the week with a light jog. Check out the new cafe in Adyar.",
+    "tuesday": "Catch the Leo trailer at 6 PM. Prepare for rain.",
+    "wednesday": "Watch India vs Afghan. Order pizza.",
+    "thursday": "Visit Kapaleeshwarar Temple for Pradosham.",
+    "friday": "Movie night! Watch Mission Impossible on Prime.",
+    "saturday": "Attend the ARR Concert. Wear comfortable shoes.",
+    "sunday": "Relax at Besant Nagar beach morning. Family lunch."
+  }
+}
